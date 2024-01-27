@@ -1,6 +1,6 @@
 # Language-Assistant
+A Windows Forms application using C# that helps users learn new languages while they browse and perform their usual tasks.
 
-#### Description:
 ## Introduction
 
 As my final project for CS50 I decided to work on a translation app. This application is a Windows Forms app developed using C#. Users can manually enter words or sentences to be translated into various available languages. The user can also instead of manually typing the words or sentences, let the app extract the text from your clipboard and translate it which would spare you extra clicks. The app allows you also to save/remove your translations.
